@@ -17,7 +17,7 @@
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
+                "buttontext": "<RichColor Color=\"1,0,0,1\">Информация</>",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
@@ -28,12 +28,12 @@
             },
             {
                 "layout": 2,
-                "buttontext": "Информация",
+                "buttontext": "Настройки",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Настройки сервера",
-                        "text": "This text goes into the left box"
+                        "text": "Настройки:n\n\ - "
                     },
                     {
                         "title": "Установленные моды",
