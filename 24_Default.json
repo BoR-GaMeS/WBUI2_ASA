@@ -28,7 +28,7 @@
             },
             {
                 "layout": 2,
-                "buttontext": "2 Box layout",
+                "buttontext": "Настройки/Моды",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
@@ -36,7 +36,7 @@
                         "text": "This text goes into the left box"
                     },
                     {
-                        "title": "Right title",
+                        "title": "Установленные моды",
                         "text": "This text goes into the right box"
                     }
                 ]
