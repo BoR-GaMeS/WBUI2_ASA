@@ -22,7 +22,7 @@
                 "content": [
                     {
                         "title": "Welcome to *** BoR-GaMeS ***",
-                        "text": "/showlimits - Команда для отображения общих ограничений структуры ( Command to display overall structure limits)"
+                        "text": "/showlimits - Команда для отображения общих ограничений структуры ( Command to display overall structure limits) /showcluster - Command to display all structures in 1 cluster and compare them to limit"
                     }
                 ]
             },
