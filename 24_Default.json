@@ -22,7 +22,7 @@
                 "content": [
                     {
                         "title": "Welcome to *** BoR-GaMeS ***",
-                        "text": "Плагин SoloFarm - позволяет включать режим добычи ресурсов у дино. \n\n /farm - команда(чат игры) для запуска фарма дино, на которого смотрит игрок (повторная команда останавливает фарм у одного дино) \n\n\n /stopall - останавливает фарм у всех дино \n\n\n Внимание! Если у дино запущена функция солофарм, то его невозможно убоать в крио \n\n\n /showlimits - Команда для отображения общих ограничений структуры ( Command to display overall structure limits) \n\n\n /showcluster - Команда для отображения всех структур в 1 кластере и сравнения их с пределом ( Command to display all structures in 1 cluster and compare them to limit )"
+                        "text": "<TextStyle.LightBlue><TextStyle.LightBlue> Плагин SoloFarm - позволяет включать режим добычи ресурсов у дино. \n\n /farm - команда(чат игры) для запуска фарма дино, на которого смотрит игрок (повторная команда останавливает фарм у одного дино) \n\n\n /stopall - останавливает фарм у всех дино \n\n\n Внимание! Если у дино запущена функция солофарм, то его невозможно убоать в крио \n\n\n /showlimits - Команда для отображения общих ограничений структуры ( Command to display overall structure limits) \n\n\n /showcluster - Команда для отображения всех структур в 1 кластере и сравнения их с пределом ( Command to display all structures in 1 cluster and compare them to limit )"
                     }
                 ]
             },
