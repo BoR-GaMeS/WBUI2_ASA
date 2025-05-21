@@ -42,20 +42,24 @@
                 ]
             },
             {
-                "layout": 3,
-                "buttontext": "3 Box layout",
+                "layout": 4,
+                "buttontext": "Команды чата",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Left title",
+                        "title": "Solo Farm",
                         "text": "This text goes into the left box"
                     },
                     {
-                        "title": "Top right title",
+                        "title": "Dino Limits",
                         "text": "This text goes into the top right box"
                     },
                     {
-                        "title": "Bottom right title",
+                        "title": "Structure Limits",
+                        "text": "This text goes into the top right box"
+                    },
+                    {
+                        "title": "-",
                         "text": "This text goes into the bottom right box"
                     }
                 ]
