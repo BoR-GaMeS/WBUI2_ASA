@@ -33,7 +33,7 @@
                 "content": [
                     {
                         "title": "Настройки сервера",
-                        "text": "Настройки:\n\n SupplyCrateLootQualityMultiplier=3 \n\n FishingLootQualityMultiplier=3 \n\n EggHatchSpeedMultiplier=10 \n\n MatingIntervalMultiplier=0.01 \n\n - OverrideOfficialDifficulty=5 \n\n SupplyCrateLootQualityMultiplier=3 \n\n FishingLootQualityMultiplier=3 \n\n EggHatchSpeedMultiplier=10 \n\n MatingIntervalMultiplier=0.01 \n\n bDisableStructurePlacementCollision=true \n\n BabyMatureSpeedMultiplier=10 \n\n BabyCuddleIntervalMultiplier=0.5 \n\n ResourceNoReplenishRadiusStructures=0.4 \n\n bAllowSpeedLeveling=true \n\n bAllowFlyerSpeedLeveling=true \n\n "
+                        "text": "Настройки:\n\n - Приручение дино х10 \n\n - Инкубация яиц, взросление дино х10 \n\n - Добыча ресурсов х5 \n\n - Получение опыта игроком х5 \n\n - Качество лута дропов, рыбалки х3 \n\n - Прокачка скорости игрока - включено \n\n - Прокачка скорости летающих дино - включено\n\n"
                     },
                     {
                         "title": "Установленные моды",
