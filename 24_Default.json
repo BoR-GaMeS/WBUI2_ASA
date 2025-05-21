@@ -52,7 +52,7 @@
                     },
                     {
                         "title": "Structure Limits",
-                        "text": "<TextStyle.Green>/showlimits</> - Команда для отображения общих ограничений структуры \n\n <TextStyle.Green>/showcluster</> - Команда для отображения всех структур в 1 кластере и сравнения их с пределом"
+                        "text": "<TextStyle.Green>/showlimits</> - Команда для отображения общих ограничений структур \n\n <TextStyle.Green>/showcluster</> - Команда для отображения всех структур в 1 кластере и сравнения их с пределом"
                     },
                     {
                         "title": "Донат-магазин",
