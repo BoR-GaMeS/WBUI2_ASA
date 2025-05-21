@@ -33,7 +33,7 @@
                 "content": [
                     {
                         "title": "Настройки сервера",
-                        "text": "Настройки:\n\n - OverrideOfficialDifficulty=5 \n\n SupplyCrateLootQualityMultiplier=3 \n\n FishingLootQualityMultiplier=3 \n\n EggHatchSpeedMultiplier=10 \n\n MatingIntervalMultiplier=0.01 \n\n bDisableStructurePlacementCollision=true \n\n BabyMatureSpeedMultiplier=10 \n\n BabyCuddleIntervalMultiplier=0.5 \n\n ResourceNoReplenishRadiusStructures=0.4 \n\n bAllowSpeedLeveling=true \n\n bAllowFlyerSpeedLeveling=true \n\n "
+                        "text": "Настройки:\n\n SupplyCrateLootQualityMultiplier=3 \n\n FishingLootQualityMultiplier=3 \n\n EggHatchSpeedMultiplier=10 \n\n MatingIntervalMultiplier=0.01 \n\n - OverrideOfficialDifficulty=5 \n\n SupplyCrateLootQualityMultiplier=3 \n\n FishingLootQualityMultiplier=3 \n\n EggHatchSpeedMultiplier=10 \n\n MatingIntervalMultiplier=0.01 \n\n bDisableStructurePlacementCollision=true \n\n BabyMatureSpeedMultiplier=10 \n\n BabyCuddleIntervalMultiplier=0.5 \n\n ResourceNoReplenishRadiusStructures=0.4 \n\n bAllowSpeedLeveling=true \n\n bAllowFlyerSpeedLeveling=true \n\n "
                     },
                     {
                         "title": "Установленные моды",
