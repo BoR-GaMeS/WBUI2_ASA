@@ -52,7 +52,7 @@
                     },
                     {
                         "title": "Dino Limits",
-                        "text": "This text goes into the top right box"
+                        "text": "<TextStyle.Green>/dinolimits</> - Команда для отображения общих ограничений прирученных динозавров вне крио (soul шариков) \n\n"
                     },
                     {
                         "title": "Structure Limits",
